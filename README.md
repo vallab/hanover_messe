@@ -6,7 +6,7 @@ Purpose : I need to select companies that I can become a delaor or get associate
 <https://www.hannovermesse.de/en/search/?category=ep> <br> **has around 8700 items**
 
 ## Conditions or filters : 
-should not have thier presence in india. <br> **meaning** *: they should have dealors in india or they should not have offices in india*
+should not have thier presence in india. <br> **meaning** *: they should not have dealors in india or they should not have offices in india*
 
 data to be written in a csv file or in google sheet
 <br> don't which is better <br>
